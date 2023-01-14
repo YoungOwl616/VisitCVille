@@ -62,7 +62,7 @@ body {
 /* body-div styles */
 #body-div {
     margin: 0px;
-    background-color: #EAE0DA;
+    background-image: linear-gradient(to bottom, #EAE0DA, #F7F5EB);
     padding-top: 35px;
     padding-bottom: 30px;
     text-align: center;
